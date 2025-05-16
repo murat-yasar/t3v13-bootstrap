@@ -1,0 +1,21 @@
+page {
+    includeCSS {
+        theme = EXT:t3v13_bootstrap/Resources/Public/Scss/Theme/theme.scss
+    }
+
+    includeJSLibs {
+
+    }
+
+    includeJS {
+
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+        t3v13_bootstrap_scripts = EXT:t3v13_bootstrap/Resources/Public/JavaScript/main.js
+    }
+}

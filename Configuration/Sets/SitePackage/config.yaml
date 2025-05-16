@@ -1,0 +1,4 @@
+name: mysoft/t3v13-bootstrap
+label: 't3v13-bootstrap'
+dependencies:
+  - bootstrap-package/full
